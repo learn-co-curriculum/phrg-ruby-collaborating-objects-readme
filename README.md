@@ -83,4 +83,8 @@ hotline_bling.artist
 
 This should then return the new `Artist` object that was created by the `#artist_name` method.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-ruby-collaborating-objects-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-ruby-collaborating-objects-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Ruby Collaborating Objects Readme</p>
